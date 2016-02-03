@@ -1,6 +1,6 @@
 ### Week 2 Programming Assignment - Non-Personalized Recommenders
 
-
+http://nbviewer.jupyter.org/github/Santana9937/Intro_to_recommender_systems/blob/master/week_2/Week_2_Assig%20-%20Non-Personalized%20Recommenders.ipynb
 
 ### Overview
 
